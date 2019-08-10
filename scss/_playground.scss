@@ -1,0 +1,33 @@
+.grid {
+  display: grid;
+  background-color: violet;
+}
+.item {
+  font-size: 20px;
+
+  &-1 {
+    color: red;
+  }
+
+  &-2 {
+    color: blue;
+  }
+
+  &-3 {
+    color: skyblue;
+  }
+
+  &-4 {
+    color: gray;
+  }
+
+  &-5 {
+    color: yellow;
+  }
+}
+
+.tama {
+  display: grid;
+  font-size: 100px;
+  background-color: rgb(66, 139, 37);
+}
